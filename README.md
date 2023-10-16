@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ## Ersatzteilkonstruktion für den 3D-Druck
 
-**Wo man früher Fragmente zusammenklaubte und -klebte, mit irgendwas umwickelte und dann das Ganze in Epoxy versenkte, baue ich heute lieber mit 3D-Software und -Drucker individuelle Prothesen für meine Reparatur-Patienten. **
+**Wo man früher Fragmente zusammenklaubte und -klebte, mit irgendwas umwickelte und dann das Ganze in Epoxy versenkte, baue ich heute lieber mit 3D-Software und -Drucker individuelle Prothesen für meine Reparatur-Patienten.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
